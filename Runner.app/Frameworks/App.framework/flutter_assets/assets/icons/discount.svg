@@ -1,0 +1,10 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <mask id="path-1-inside-1" fill="white">
+        <path d="M9 15C9 12.2386 11.2386 10 14 10H34C36.7614 10 39 12.2386 39 15V33C39 35.7614 36.7614 38 34 38H14C11.2386 38 9 35.7614 9 33V15Z"/>
+    </mask>
+    <path d="M14 12H34V8H14V12ZM37 15V33H41V15H37ZM34 36H14V40H34V36ZM11 33V15H7V33H11ZM14 36C12.3431 36 11 34.6569 11 33H7C7 36.866 10.134 40 14 40V36ZM37 33C37 34.6569 35.6569 36 34 36V40C37.866 40 41 36.866 41 33H37ZM34 12C35.6569 12 37 13.3431 37 15H41C41 11.134 37.866 8 34 8V12ZM14 8C10.134 8 7 11.134 7 15H11C11 13.3431 12.3431 12 14 12V8Z"
+          fill="#A6C2FF" mask="url(#path-1-inside-1)"/>
+    <circle cx="19.5" cy="19.5" r="2.5" stroke="#A6C2FF" stroke-width="2"/>
+    <circle cx="28.5" cy="28.5" r="2.5" stroke="#A6C2FF" stroke-width="2"/>
+    <path d="M30 18L18 30" stroke="#A6C2FF" stroke-width="2" stroke-linecap="round"/>
+</svg>
